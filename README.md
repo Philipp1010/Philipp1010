@@ -43,15 +43,21 @@ I'm passionate about creating intuitive and beautiful iOS applications that user
 - RESTful APIs
 - Analytics Integration
 
-## Featured Project: iOS Shop App 🛍️
-### [Check it out here](https://github.com/Philipp1010/SwiftUI-Shop-App)
-Modern e-commerce application showcasing:
+## Featured Project 🛍️
+### [iOS Shop App](https://github.com/Philipp1010/SwiftUI-Shop-App)
+A modern e-commerce application built with SwiftUI, featuring:
 - Custom 3D payment animations
 - Clean MVVM architecture
 - Firebase integration
 - Real-time analytics
 - Intuitive UI/UX design
 - Secure authentication
+
+<div align="center">
+  <a href="https://github.com/Philipp1010/SwiftUI-Shop-App">
+    <b>👉 View Project Details 👈</b>
+  </a>
+</div>
 
 ## Currently Learning 📚
 - Advanced SwiftUI animations
@@ -61,5 +67,8 @@ Modern e-commerce application showcasing:
 
 ## Get in Touch 📫
 - 💼 Open for iOS Developer positions
-- 📧 philipp_hermann@mail.de
-- 🌟 "Creating apps that make a difference"
+- 📧 <a href="mailto:philipp_hermann@mail.de">philipp_hermann@mail.de</a>
+
+<div align="center">
+  <i>Creating apps that make a difference</i>
+</div>
