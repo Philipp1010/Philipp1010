@@ -23,7 +23,7 @@ I'm passionate about creating intuitive and beautiful iOS applications that user
 ## Skills & Expertise 💫
 ### Mobile Development
 - Swift & SwiftUI
-- Kotlin (Basic)
+- Kotlin
 - MVVM Architecture
 - Firebase Integration
 - REST API Implementation
